@@ -1,0 +1,501 @@
+product_id,product_name,price,cogs,category_id,seller_id
+1,Brand E Green Tea,480,288,8,37
+2,Brand D Dash Cam,1096,657,9,41
+3,Brand E Sneakers,1858,1114,2,47
+4,Brand C Cookbook,1906,1143,4,13
+5,Brand E Nuts Mix,1749,1049,8,30
+6,Brand D Sweater,1466,879,2,15
+7,Brand E Blender,958,574,3,39
+8,Brand B Running Shoes,1432,859,5,18
+9,Brand D Protein Bar,1668,1000,8,14
+10,Brand E Video Game,1930,1158,6,20
+11,Brand D Cookware Set,1102,661,3,38
+12,Brand A Dash Cam,1057,634,9,32
+13,Brand D Video Game,339,203,6,17
+14,Brand B Skincare Set,355,213,7,19
+15,Brand E Skincare Set,361,216,7,46
+16,Brand B Jeans,116,69,2,45
+17,Brand C Dash Cam,479,287,9,19
+18,Brand E Dash Cam,1403,841,9,6
+19,Brand D Skincare Set,895,537,7,30
+20,Brand A Air Fryer,1179,707,3,14
+21,Brand D Jeans,1275,765,2,3
+22,Brand A Air Fryer,401,240,3,17
+23,Brand A Face Cream,1828,1096,7,6
+24,Brand D Biography,575,345,4,37
+25,Brand B History Book,1035,621,4,13
+26,Brand D Building Blocks,161,96,6,30
+27,Brand E T-Shirt,1268,760,2,34
+28,Brand A Video Game,97,58,6,35
+29,Brand C Biography,1851,1110,4,50
+30,Brand C Mystery Novel,283,169,4,30
+31,Brand E Sweater,629,377,2,41
+32,Brand E Protein Powder,866,519,10,48
+33,Brand A Shorts,340,204,2,14
+34,Brand A Protein Bar,449,269,8,5
+35,Brand E Cookware Set,1569,941,3,14
+36,Brand A Green Tea,931,558,8,34
+37,Brand B Puzzle,1624,974,6,14
+38,Brand C History Book,1468,880,4,6
+39,Brand C Shampoo,595,357,7,6
+40,Brand B Perfume,1512,907,7,16
+41,Brand A Camera,1744,1046,1,28
+42,Brand D Action Figure,1265,759,6,46
+43,Brand C Smart Watch,479,287,1,22
+44,Brand B T-Shirt,827,496,2,16
+45,Brand C Laptop,1399,839,1,40
+46,Brand D T-Shirt,1595,957,2,35
+47,Brand B Board Game,1940,1164,6,19
+48,Brand D Tablet,393,235,1,10
+49,Brand E Board Game,253,151,6,35
+50,Brand B 4K TV,66,39,1,6
+51,Brand E Vitamins,1195,717,10,31
+52,Brand A Jump Starter,1582,949,9,22
+53,Brand D Yoga Mat,1451,870,5,34
+54,Brand A Vacuum Cleaner,1187,712,3,47
+55,Brand E Mystery Novel,48,28,4,18
+56,Brand D Camera,908,544,1,3
+57,Brand E Camera,581,348,1,14
+58,Brand B Self-Help Book,988,592,4,27
+59,Brand D Shorts,1327,796,2,19
+60,Brand C 4K TV,1294,776,1,10
+61,Brand D Protein Bar,593,355,8,39
+62,Brand E Air Freshener,454,272,9,44
+63,Brand A History Book,1694,1016,4,49
+64,Brand E Laptop,386,231,1,21
+65,Brand C Shampoo,204,122,7,19
+66,Brand A History Book,1331,798,4,12
+67,Brand E Resistance Bands,1787,1072,10,46
+68,Brand B Car Cover,108,64,9,38
+69,Brand C Backpack,1568,940,5,29
+70,Brand D Tent,739,443,5,15
+71,Brand A Board Game,1408,844,6,6
+72,Brand C Air Fryer,130,78,3,10
+73,Brand E Self-Help Book,815,489,4,21
+74,Brand B Biography,916,549,4,40
+75,Brand D Shampoo,1033,619,7,40
+76,Brand B Dash Cam,37,22,9,8
+77,Brand E Shampoo,1647,988,7,22
+78,Brand C Jeans,15,9,2,42
+79,Brand A Lipstick,484,290,7,38
+80,Brand D Laptop,1317,790,1,39
+81,Brand D History Book,957,574,4,26
+82,Brand C Vitamins,590,354,10,4
+83,Brand A Vitamins,182,109,10,43
+84,Brand A Camera,1446,867,1,5
+85,Brand B Building Blocks,1343,805,6,38
+86,Brand E Dash Cam,1228,736,9,38
+87,Brand C Laptop,340,204,1,3
+88,Brand A Sweater,811,486,2,19
+89,Brand B Car Phone Mount,1739,1043,9,22
+90,Brand E Mystery Novel,493,295,4,20
+91,Brand B Essential Oils,211,126,10,35
+92,Brand D T-Shirt,1663,997,2,34
+93,Brand A Science Fiction,306,183,4,23
+94,Brand A Dash Cam,635,381,9,13
+95,Brand B History Book,1668,1000,4,13
+96,Brand C Air Fryer,1698,1018,3,49
+97,Brand C T-Shirt,629,377,2,10
+98,Brand A Sneakers,863,517,2,15
+99,Brand A Fitness Tracker,335,201,10,35
+100,Brand E Shampoo,880,528,7,10
+101,Brand C Running Shoes,1146,687,5,6
+102,Brand B Green Tea,1166,699,8,19
+103,Brand A Hoodie,1431,858,2,9
+104,Brand C Face Cream,80,48,7,13
+105,Brand A Jeans,603,361,2,4
+106,Brand B Face Cream,1023,613,7,42
+107,Brand A Perfume,657,394,7,34
+108,Brand B Perfume,50,30,7,10
+109,Brand D Cookbook,1990,1194,4,43
+110,Brand E Tent,944,566,5,9
+111,Brand C Sweater,1297,778,2,3
+112,Brand B Protein Powder,792,475,10,39
+113,Brand E Jacket,1877,1126,2,30
+114,Brand D Skincare Set,491,294,7,37
+115,Brand B Car Phone Mount,713,427,9,49
+116,Brand D Perfume,983,589,7,26
+117,Brand C Shampoo,1856,1113,7,41
+118,Brand C Self-Help Book,875,525,4,7
+119,Brand E Lipstick,119,71,7,20
+120,Brand A History Book,1392,835,4,42
+121,Brand C Running Shoes,941,564,5,47
+122,Brand D History Book,721,432,4,26
+123,Brand A Tent,1676,1005,5,3
+124,Brand C Biography,922,553,4,23
+125,Brand E Organic Coffee,130,78,8,16
+126,Brand C Wireless Headphones,234,140,1,1
+127,Brand E Mystery Novel,210,126,4,34
+128,Brand C Puzzle,321,192,6,22
+129,Brand A Laptop,1929,1157,1,5
+130,Brand D Car Cover,1429,857,9,3
+131,Brand A Protein Bar,1118,670,8,16
+132,Brand C Fitness Tracker,1788,1072,10,23
+133,Brand E History Book,608,364,4,32
+134,Brand A Shampoo,1944,1166,7,45
+135,Brand E Protein Powder,780,468,10,48
+136,Brand E Tablet,1588,952,1,21
+137,Brand E Running Shoes,266,159,5,40
+138,Brand A Protein Bar,524,314,8,37
+139,Brand D Olive Oil,1550,930,8,27
+140,Brand C Shampoo,474,284,7,23
+141,Brand B Sneakers,1037,622,2,27
+142,Brand C Jacket,1907,1144,2,4
+143,Brand D Organic Coffee,1998,1198,8,31
+144,Brand D Building Blocks,1452,871,6,48
+145,Brand D Perfume,763,457,7,44
+146,Brand B Skincare Set,1961,1176,7,35
+147,Brand E Lipstick,1195,717,7,32
+148,Brand E Vitamins,1885,1131,10,46
+149,Brand A Tent,311,186,5,12
+150,Brand D Running Shoes,1751,1050,5,42
+151,Brand C Green Tea,1307,784,8,8
+152,Brand C Wireless Headphones,94,56,1,4
+153,Brand C Board Game,415,249,6,3
+154,Brand E Smart Watch,1033,619,1,13
+155,Brand E Lipstick,923,553,7,48
+156,Brand D Blender,1079,647,3,11
+157,Brand E Laptop,1187,712,1,33
+158,Brand C Action Figure,1115,669,6,32
+159,Brand D Running Shoes,748,448,5,41
+160,Brand E Gaming Console,800,480,1,23
+161,Brand E Air Freshener,716,429,9,39
+162,Brand D 4K TV,1868,1120,1,7
+163,Brand A Perfume,112,67,7,46
+164,Brand E Organic Coffee,639,383,8,26
+165,Brand B History Book,567,340,4,7
+166,Brand B Dress,685,411,2,20
+167,Brand D Cookware Set,56,33,3,14
+168,Brand D Building Blocks,407,244,6,48
+169,Brand D Sweater,1909,1145,2,29
+170,Brand B Bicycle,388,232,5,37
+171,Brand D Perfume,814,488,7,29
+172,Brand C Olive Oil,1827,1096,8,23
+173,Brand E Towel Set,1437,862,3,28
+174,Brand C Backpack,673,403,5,42
+175,Brand E Action Figure,1872,1123,6,33
+176,Brand B Running Shoes,269,161,5,3
+177,Brand B Olive Oil,627,376,8,17
+178,Brand B Building Blocks,1849,1109,6,7
+179,Brand D Car Cover,1067,640,9,41
+180,Brand A Board Game,1841,1104,6,24
+181,Brand B Resistance Bands,384,230,10,19
+182,Brand A Olive Oil,1640,984,8,7
+183,Brand E Lipstick,1977,1186,7,45
+184,Brand B Wireless Headphones,1634,980,1,43
+185,Brand C Organic Coffee,1219,731,8,32
+186,Brand C Resistance Bands,1506,903,10,30
+187,Brand D Green Tea,529,317,8,26
+188,Brand A Bed Sheets,1149,689,3,35
+189,Brand B Self-Help Book,499,299,4,18
+190,Brand D History Book,1950,1170,4,50
+191,Brand B Green Tea,363,217,8,35
+192,Brand B Vitamins,1084,650,10,13
+193,Brand C Biography,1724,1034,4,46
+194,Brand A Blender,1292,775,3,5
+195,Brand C Action Figure,1153,691,6,35
+196,Brand B Protein Bar,1062,637,8,20
+197,Brand B Tent,1796,1077,5,23
+198,Brand B Car Cover,306,183,9,50
+199,Brand D Laptop,1129,677,1,49
+200,Brand D Bluetooth Speaker,674,404,1,10
+201,Brand B Board Game,1036,621,6,37
+202,Brand D Backpack,1844,1106,5,17
+203,Brand C Tablet,230,138,1,17
+204,Brand A Running Shoes,386,231,5,24
+205,Brand B Tablet,835,501,1,32
+206,Brand B Coffee Maker,1525,915,3,1
+207,Brand D History Book,883,529,4,46
+208,Brand B Vacuum Cleaner,1428,856,3,19
+209,Brand A Jump Starter,1531,918,9,1
+210,Brand B Dash Cam,673,403,9,42
+211,Brand C Dumbbells,307,184,5,37
+212,Brand B Towel Set,1655,993,3,50
+213,Brand B Tablet,1700,1020,1,16
+214,Brand B Nuts Mix,1322,793,8,12
+215,Brand C Bicycle,687,412,5,1
+216,Brand C Skincare Set,118,70,7,1
+217,Brand A Dumbbells,1881,1128,5,27
+218,Brand A Car Cover,631,378,9,35
+219,Brand D Tent,1194,716,5,28
+220,Brand E Dress,567,340,2,35
+221,Brand B Nuts Mix,46,27,8,39
+222,Brand D Science Fiction,361,216,4,16
+223,Brand B Car Cover,1719,1031,9,7
+224,Brand E Car Phone Mount,1881,1128,9,32
+225,Brand C Puzzle,1039,623,6,48
+226,Brand B Camera,1973,1183,1,2
+227,Brand C Bicycle,44,26,5,34
+228,Brand A Building Blocks,1094,656,6,25
+229,Brand A Face Cream,1613,967,7,27
+230,Brand B Gaming Console,1058,634,1,21
+231,Brand B Perfume,292,175,7,38
+232,Brand A Cookbook,595,357,4,33
+233,Brand C Face Cream,1761,1056,7,10
+234,Brand E Vitamins,340,204,10,32
+235,Brand D Cookbook,1473,883,4,9
+236,Brand C Car Cover,974,584,9,7
+237,Brand D Perfume,1788,1072,7,38
+238,Brand B Protein Bar,640,384,8,21
+239,Brand C Green Tea,521,312,8,27
+240,Brand C Dress,1748,1048,2,21
+241,Brand E Face Cream,1563,937,7,16
+242,Brand C Self-Help Book,1896,1137,4,7
+243,Brand B Jump Starter,970,582,9,21
+244,Brand B Jacket,55,33,2,29
+245,Brand B Puzzle,1776,1065,6,40
+246,Brand E Bicycle,1260,756,5,5
+247,Brand D Organic Coffee,1579,947,8,48
+248,Brand E Perfume,77,46,7,4
+249,Brand E Gaming Console,1684,1010,1,35
+250,Brand D Nuts Mix,737,442,8,25
+251,Brand A Resistance Bands,1018,610,10,35
+252,Brand C Puzzle,1936,1161,6,17
+253,Brand B Mystery Novel,24,14,4,28
+254,Brand A Backpack,424,254,5,29
+255,Brand D Cookware Set,1184,710,3,25
+256,Brand C Cookbook,935,561,4,16
+257,Brand D Vitamins,1040,624,10,20
+258,Brand E Protein Powder,1476,885,10,45
+259,Brand D Bluetooth Speaker,1873,1123,1,31
+260,Brand A Jeans,1198,718,2,28
+261,Brand A Yoga Mat,1384,830,5,5
+262,Brand B Wireless Headphones,862,517,1,26
+263,Brand C Green Tea,1758,1054,8,1
+264,Brand A Shampoo,212,127,7,33
+265,Brand D Bluetooth Speaker,343,205,1,25
+266,Brand E Jacket,851,510,2,2
+267,Brand A Air Freshener,1523,913,9,14
+268,Brand E Dash Cam,1265,759,9,43
+269,Brand E Dash Cam,691,414,9,49
+270,Brand A Protein Powder,1453,871,10,31
+271,Brand E Doll,1646,987,6,46
+272,Brand B Jacket,211,126,2,3
+273,Brand D Blender,1332,799,3,7
+274,Brand D Bluetooth Speaker,1752,1051,1,37
+275,Brand C Jump Starter,1647,988,9,26
+276,Brand B Doll,357,214,6,47
+277,Brand A Blender,1143,685,3,22
+278,Brand B Nuts Mix,1725,1035,8,10
+279,Brand E Resistance Bands,422,253,10,49
+280,Brand B Nuts Mix,1106,663,8,38
+281,Brand A Coffee Maker,1305,783,3,48
+282,Brand B Resistance Bands,919,551,10,27
+283,Brand E Laptop,1746,1047,1,35
+284,Brand A Air Freshener,1435,861,9,43
+285,Brand A Dash Cam,774,464,9,7
+286,Brand A Nuts Mix,1078,646,8,46
+287,Brand D Self-Help Book,1470,882,4,7
+288,Brand E Backpack,1212,727,5,32
+289,Brand E Skincare Set,1898,1138,7,9
+290,Brand E Tent,943,565,5,34
+291,Brand A Lipstick,1760,1056,7,23
+292,Brand C Resistance Bands,123,73,10,23
+293,Brand B Fitness Tracker,1418,850,10,3
+294,Brand C Running Shoes,1264,758,5,8
+295,Brand A Action Figure,899,539,6,5
+296,Brand D Dash Cam,940,564,9,35
+297,Brand D Perfume,217,130,7,20
+298,Brand B Cookbook,522,313,4,48
+299,Brand E Cookbook,1843,1105,4,44
+300,Brand C Bicycle,1390,834,5,28
+301,Brand E History Book,1098,658,4,49
+302,Brand E Vitamins,1908,1144,10,41
+303,Brand E Bluetooth Speaker,1269,761,1,46
+304,Brand A Protein Bar,156,93,8,40
+305,Brand A Resistance Bands,967,580,10,28
+306,Brand E Video Game,496,297,6,26
+307,Brand E Cookware Set,410,246,3,39
+308,Brand D Protein Bar,867,520,8,19
+309,Brand B Puzzle,1193,715,6,44
+310,Brand C Nuts Mix,1700,1020,8,26
+311,Brand C Car Phone Mount,1777,1066,9,43
+312,Brand B Protein Bar,1187,712,8,31
+313,Brand B Perfume,1331,798,7,8
+314,Brand D Coffee Maker,1883,1129,3,30
+315,Brand B Car Cover,1319,791,9,25
+316,Brand A Laptop,406,243,1,32
+317,Brand D Running Shoes,1697,1018,5,40
+318,Brand B Laptop,506,303,1,47
+319,Brand E Bicycle,486,291,5,38
+320,Brand B Sweater,695,417,2,27
+321,Brand E Vitamins,452,271,10,17
+322,Brand E Blender,242,145,3,19
+323,Brand C Air Freshener,1836,1101,9,50
+324,Brand A Jeans,797,478,2,32
+325,Brand D Yoga Mat,1009,605,5,21
+326,Brand E Self-Help Book,1373,823,4,46
+327,Brand B Resistance Bands,1003,601,10,50
+328,Brand A Shampoo,101,60,7,12
+329,Brand A Backpack,1451,870,5,30
+330,Brand E Green Tea,1307,784,8,43
+331,Brand A Dash Cam,1463,877,9,13
+332,Brand D Mystery Novel,1468,880,4,11
+333,Brand B Shampoo,941,564,7,28
+334,Brand B Tablet,1824,1094,1,4
+335,Brand E Bluetooth Speaker,645,387,1,41
+336,Brand C Biography,861,516,4,16
+337,Brand A Jump Starter,1669,1001,9,2
+338,Brand B Vacuum Cleaner,621,372,3,46
+339,Brand A Green Tea,510,306,8,27
+340,Brand B Car Phone Mount,782,469,9,7
+341,Brand E Action Figure,1766,1059,6,40
+342,Brand E Doll,1189,713,6,1
+343,Brand D Dash Cam,1823,1093,9,23
+344,Brand C Backpack,443,265,5,36
+345,Brand B Cookbook,97,58,4,26
+346,Brand D Backpack,1236,741,5,1
+347,Brand E Car Cover,1351,810,9,31
+348,Brand E Jump Starter,544,326,9,36
+349,Brand B Doll,1645,987,6,6
+350,Brand B Air Freshener,1151,690,9,8
+351,Brand B Perfume,256,153,7,23
+352,Brand D Tent,931,558,5,12
+353,Brand D Face Cream,316,189,7,19
+354,Brand E Essential Oils,199,119,10,46
+355,Brand B 4K TV,458,274,1,11
+356,Brand D Air Freshener,1885,1131,9,33
+357,Brand E Nuts Mix,1390,834,8,4
+358,Brand B Blender,33,19,3,20
+359,Brand D Mystery Novel,1429,857,4,29
+360,Brand C Blender,1901,1140,3,13
+361,Brand E Science Fiction,463,277,4,14
+362,Brand D Video Game,1046,627,6,23
+363,Brand C Olive Oil,310,186,8,18
+364,Brand A Science Fiction,1496,897,4,33
+365,Brand E Smart Watch,1492,895,1,15
+366,Brand B Science Fiction,1371,822,4,25
+367,Brand E Gaming Console,1656,993,1,40
+368,Brand C Building Blocks,1564,938,6,50
+369,Brand E Doll,998,598,6,49
+370,Brand B Shorts,423,253,2,26
+371,Brand A Running Shoes,160,96,5,41
+372,Brand B Perfume,1252,751,7,45
+373,Brand E Resistance Bands,1892,1135,10,48
+374,Brand C Mystery Novel,1274,764,4,12
+375,Brand C Doll,1977,1186,6,3
+376,Brand A Nuts Mix,244,146,8,12
+377,Brand A Science Fiction,756,453,4,13
+378,Brand D Lipstick,1000,600,7,37
+379,Brand D Vacuum Cleaner,1024,614,3,24
+380,Brand B Video Game,807,484,6,13
+381,Brand D Dumbbells,1179,707,5,48
+382,Brand A Camera,802,481,1,49
+383,Brand A History Book,1495,897,4,18
+384,Brand B Towel Set,1140,684,3,7
+385,Brand D Skincare Set,331,198,7,9
+386,Brand D Tablet,218,130,1,19
+387,Brand D Jump Starter,724,434,9,50
+388,Brand B Bicycle,1168,700,5,13
+389,Brand D Shampoo,1315,789,7,2
+390,Brand B Resistance Bands,1058,634,10,20
+391,Brand A Board Game,1271,762,6,43
+392,Brand B Cookware Set,1810,1086,3,30
+393,Brand E Cookware Set,1100,660,3,19
+394,Brand D Self-Help Book,513,307,4,37
+395,Brand C Biography,1084,650,4,18
+396,Brand C Doll,842,505,6,4
+397,Brand B Hoodie,1672,1003,2,34
+398,Brand A Self-Help Book,90,54,4,31
+399,Brand E Vitamins,1157,694,10,45
+400,Brand C Tablet,744,446,1,1
+401,Brand B Vitamins,1298,778,10,37
+402,Brand A Coffee Maker,310,186,3,39
+403,Brand D Skincare Set,1864,1118,7,1
+404,Brand D Self-Help Book,152,91,4,3
+405,Brand B Tent,85,51,5,25
+406,Brand C Puzzle,909,545,6,46
+407,Brand A Jump Starter,846,507,9,31
+408,Brand D Puzzle,1119,671,6,50
+409,Brand B Resistance Bands,1692,1015,10,1
+410,Brand A Face Cream,1240,744,7,11
+411,Brand B Gaming Console,1346,807,1,3
+412,Brand E Perfume,178,106,7,3
+413,Brand D Bicycle,492,295,5,7
+414,Brand E Car Cover,1582,949,9,31
+415,Brand C Jeans,387,232,2,45
+416,Brand C Air Fryer,99,59,3,20
+417,Brand D Bicycle,446,267,5,49
+418,Brand C Running Shoes,630,378,5,18
+419,Brand B History Book,802,481,4,2
+420,Brand D Board Game,666,399,6,33
+421,Brand E Face Cream,542,325,7,29
+422,Brand D Car Phone Mount,452,271,9,50
+423,Brand C Running Shoes,543,325,5,39
+424,Brand E Biography,1567,940,4,46
+425,Brand C Air Freshener,469,281,9,44
+426,Brand A Biography,173,103,4,24
+427,Brand D Organic Coffee,813,487,8,35
+428,Brand B Fitness Tracker,1919,1151,10,28
+429,Brand E Towel Set,152,91,3,19
+430,Brand B Dumbbells,1407,844,5,5
+431,Brand C Mystery Novel,281,168,4,24
+432,Brand C Board Game,1466,879,6,43
+433,Brand B Nuts Mix,446,267,8,18
+434,Brand E Shorts,1033,619,2,48
+435,Brand C Science Fiction,158,94,4,4
+436,Brand E Dress,958,574,2,7
+437,Brand E Hoodie,464,278,2,10
+438,Brand D Camera,601,360,1,1
+439,Brand B Vacuum Cleaner,1214,728,3,41
+440,Brand C Camera,1992,1195,1,6
+441,Brand C Organic Coffee,1241,744,8,34
+442,Brand D Video Game,562,337,6,28
+443,Brand A Protein Powder,1610,966,10,28
+444,Brand E Cookware Set,414,248,3,39
+445,Brand C Bed Sheets,1076,645,3,10
+446,Brand A Biography,1335,801,4,22
+447,Brand B Green Tea,1996,1197,8,31
+448,Brand D Jump Starter,608,364,9,9
+449,Brand C Sneakers,1106,663,2,24
+450,Brand C Backpack,1191,714,5,20
+451,Brand E Air Freshener,1866,1119,9,24
+452,Brand E Green Tea,269,161,8,39
+453,Brand A Bed Sheets,736,441,3,35
+454,Brand B Smart Watch,429,257,1,38
+455,Brand B Organic Coffee,1290,774,8,33
+456,Brand A Nuts Mix,1955,1173,8,39
+457,Brand A History Book,796,477,4,12
+458,Brand C Car Phone Mount,1134,680,9,21
+459,Brand D Shorts,435,261,2,25
+460,Brand A Dumbbells,1761,1056,5,34
+461,Brand A Towel Set,1491,894,3,17
+462,Brand A Camera,1344,806,1,29
+463,Brand B Green Tea,1254,752,8,7
+464,Brand A Protein Powder,1005,603,10,23
+465,Brand B Coffee Maker,1453,871,3,16
+466,Brand C Puzzle,1601,960,6,40
+467,Brand C Lipstick,319,191,7,42
+468,Brand D Shampoo,731,438,7,23
+469,Brand E Yoga Mat,355,213,5,16
+470,Brand A Face Cream,665,399,7,26
+471,Brand A Bed Sheets,1646,987,3,18
+472,Brand D Skincare Set,1753,1051,7,14
+473,Brand E Puzzle,834,500,6,16
+474,Brand C Biography,1642,985,4,16
+475,Brand B Cookbook,272,163,4,19
+476,Brand D Perfume,1170,702,7,50
+477,Brand E Gaming Console,1176,705,1,49
+478,Brand A Jeans,996,597,2,9
+479,Brand A Essential Oils,349,209,10,39
+480,Brand A Car Cover,897,538,9,40
+481,Brand A Organic Coffee,555,333,8,34
+482,Brand E Lipstick,1818,1090,7,3
+483,Brand D Tent,1699,1019,5,13
+484,Brand A Doll,384,230,6,15
+485,Brand A Protein Bar,994,596,8,34
+486,Brand A Skincare Set,711,426,7,8
+487,Brand B Nuts Mix,561,336,8,16
+488,Brand C Cookbook,834,500,4,14
+489,Brand D Dumbbells,1376,825,5,37
+490,Brand E Action Figure,477,286,6,4
+491,Brand D Jeans,806,483,2,44
+492,Brand E Mystery Novel,90,54,4,23
+493,Brand A Jeans,1967,1180,2,42
+494,Brand D Smart Watch,1634,980,1,31
+495,Brand E Camera,15,9,1,33
+496,Brand B Green Tea,768,460,8,1
+497,Brand E Protein Bar,1361,816,8,4
+498,Brand C Shorts,340,204,2,22
+499,Brand A Sweater,975,585,2,18
+500,Brand D Vitamins,1071,642,10,44
